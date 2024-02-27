@@ -1,0 +1,23 @@
+{
+  "name": "threejs-journey-exercise",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.0.12",
+    "vite-plugin-glsl": "^1.2.1"
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "lil-gui": "^0.19.1",
+    "npm": "^10.3.0",
+    "stats.js": "^0.17.0",
+    "three": "^0.160.0",
+    "three-bvh-csg": "^0.0.16",
+    "three-custom-shader-material": "^5.4.0"
+  }
+}
